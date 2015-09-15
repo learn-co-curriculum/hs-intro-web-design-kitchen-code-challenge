@@ -17,7 +17,7 @@ html {
   top: 300px;
 }
 
-#cheese{
+.cheese{
   position: absolute;
   z-index: 1;
   left: 1050px;
@@ -31,14 +31,14 @@ html {
   top: 275px;
 }
 
-#cake{
+.chicken{
   position: absolute;
   z-index: 1;
   left: 1100px;
   top: 250px;
 }
 
-/*insert selector for cake*/{
+#cake{
   position: absolute;
   z-index: 1;
   left: 1100px;
