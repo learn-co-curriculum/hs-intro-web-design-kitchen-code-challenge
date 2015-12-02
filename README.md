@@ -35,3 +35,5 @@ CHICKEN WINGS! THANKS MOM! Let's put that platter in the fridge. You'll want to 
 <img src="https://s3.amazonaws.com/after-school-assets/cake.png" align="right">
 
 CAKE! This is the best grocery trip ever. Let's put the cake in the fridge by looking for the comment `/*insert selector for cake*/` in `css/kitchen.css`. You'll want to use the id defined on the cake image in `index.html` as your CSS selector.
+
+<a href='https://learn.co/lessons/hs-intro-web-design-kitchen-code-challenge' data-visibility='hidden'>View this lesson on Learn.co</a>
